@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "extra_arrows:item/netherite_capped_arrow"
+    }
+}

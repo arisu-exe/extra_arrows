@@ -1,0 +1,26 @@
+{
+  "item.extra_arrows.wooden_capped_arrow" : "Wooden Capped Arrow",
+  "item.extra_arrows.stone_capped_arrow" : "Stone Capped Arrow",
+  "item.extra_arrows.golden_capped_arrow" : "Golden Capped Arrow",
+  "item.extra_arrows.iron_capped_arrow" : "Iron Capped Arrow",
+  "item.extra_arrows.diamond_capped_arrow" : "Diamond Capped Arrow",
+  "item.extra_arrows.netherite_capped_arrow" : "Netherite Capped Arrow",
+
+  "item.extra_arrows.fire_arrow" : "Fire Arrow",
+  "item.extra_arrows.ice_arrow" : "Ice Arrow",
+  "item.extra_arrows.bomb_arrow" : "Bomb Arrow",
+  "item.extra_arrows.shock_arrow" : "Shock Arrow",
+
+
+
+  "entity.extra_arrows.capped_arrow" : "Capped Arrow",
+  "entity.extra_arrows.fire_arrow" : "Fire Arrow",
+  "entity.extra_arrows.ice_arrow" : "Ice Arrow",
+  "entity.extra_arrows.bomb_arrow" : "Bomb Arrow",
+  "entity.extra_arrows.shock_arrow" : "Shock Arrow",
+
+
+
+  "enchantment.extra_arrows.lightness" : "Lightness",
+  "enchantment.extra_arrows.guidance" : "Guidance"
+}

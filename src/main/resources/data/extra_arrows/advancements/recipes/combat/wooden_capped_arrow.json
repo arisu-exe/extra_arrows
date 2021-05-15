@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "extra_arrows:wooden_capped_arrow"
+    ]
+  },
+  "criteria": {
+	"has_feather": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:feather"
+          }
+        ]
+      }
+    },
+    "has_stick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:stick"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "extra_arrows:wooden_capped_arrow"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_feather",
+      "has_stick",
+      "has_the_recipe"
+    ]
+  ]
+}
